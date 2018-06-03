@@ -1,0 +1,7 @@
+*.pyc
+*~
+_pycache_
+django-rest-tutorial/
+db.sqlite3
+/static
+.DS_Store
